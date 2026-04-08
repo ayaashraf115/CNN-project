@@ -16,6 +16,9 @@ All images are 100x100 pixels with 3 color channels (RGB)
 ## Source:
 https://www.kaggle.com/datasets/moltean/fruits/data
 
+## Notebook 
+https://colab.research.google.com/drive/16Wo1omgOZb56KTy_C6CguZ31E2QLG7ED?usp=sharing
+
 ## Model Architecture
 
 The CNN model consists of:
